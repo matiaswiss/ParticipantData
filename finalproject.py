@@ -107,10 +107,10 @@ def execute_custom_sql():
 
 
 # Define your MySQL connection parameters
-host = "cps-database.gonzaga.edu"
-user = "bberton"
-password = "bberton10842735"
-database = "bberton_DB"
+host = 
+user = 
+password = 
+database = 
 
 # Create the tkinter GUI window
 root = tk.Tk()
